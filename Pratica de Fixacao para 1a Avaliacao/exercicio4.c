@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 int main(){
 	char i, c, vetor[50];
 	printf("Digite um nome:");
