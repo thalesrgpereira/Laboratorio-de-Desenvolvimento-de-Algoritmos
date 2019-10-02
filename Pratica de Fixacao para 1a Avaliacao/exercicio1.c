@@ -6,9 +6,9 @@ int main(){
 		scanf(" %d",&vetor[i]);
 	printf("Vetor em ordem crescente: ");
 	for(i = 0; i < 5 ; i++ ) 
-	    printf("%d ",vetor[i]);
+		printf("%d ",vetor[i]);
 	printf("\nVetor em ordem decrescente: ");
 	for(i = 4; i >= 0 ; i-- ) 
-	    printf("%d ",vetor[i]);
+		printf("%d ",vetor[i]);
 	return 0;
 }
