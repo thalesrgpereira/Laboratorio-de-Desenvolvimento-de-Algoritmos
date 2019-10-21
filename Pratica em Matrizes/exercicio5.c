@@ -6,7 +6,7 @@ int main(){
 		   (j==4)?printf("X\n"):printf("X\t");
 		}
 	}
-    printf("Voce quer desenhar um quadrado de que tamanho: \n");	
+	printf("Voce quer desenhar um quadrado de que tamanho: \n");	
 	scanf("%d",&tam);
 	for(i=0; i < tam; i++){
 		for(j=0; j < tam; j++){
